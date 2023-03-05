@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork_1</string>
+    <string name="start_service">start counting</string>
+    <string name="factorial">Factorial 15</string>
+    <string name="here_is_your_factorial">here is your factorial</string>
+    <string name="input_number">input number</string>
+    <string name="calculate_factorial">calculate factorial</string>
+</resources>
